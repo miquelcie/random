@@ -5,7 +5,7 @@ Proyecto ejemplo de curso Miriada X  módulo 5 "Desarrollo de servicios en la nu
 
 
 ## Some Features
-+ A powerful web client for management and administration of virtual machines
++ Fichero Javascript que devuelve si un número aleatorio es menor o igual a 0,5
 
 ## License
 
